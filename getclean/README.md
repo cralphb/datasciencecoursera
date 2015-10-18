@@ -20,6 +20,7 @@ The R script, called "run_analysis.R", does the following:
     tidy data set with the average of each variable for each
     activity and each subject.
     
+
 The included README file from the original dataset provides additional information to include the following file descriptions:
 
 - 'README.txt'
